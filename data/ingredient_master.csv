@@ -1,0 +1,60 @@
+valid_from,ingredient,unit,shelf_life_days,supplier_lead_time_days,unit_cost_inr
+2026-06-01,Chicken,kg,3,1,220
+2026-06-01,Fish fillet,kg,2,1,480
+2026-06-01,Prawns,kg,2,1,650
+2026-06-01,Squid,kg,2,1,520
+2026-06-01,Paneer,kg,5,1,330
+2026-06-01,Eggs,pcs,14,2,7
+2026-06-01,Tomato,kg,6,1,40
+2026-06-01,Onion,kg,30,2,35
+2026-06-01,Potato,kg,30,2,30
+2026-06-01,Garlic,kg,30,2,150
+2026-06-01,Ginger,kg,21,2,120
+2026-06-01,Green chilli,kg,7,1,80
+2026-06-01,Bell pepper,kg,7,1,110
+2026-06-01,Mushroom,kg,4,1,180
+2026-06-01,Lettuce,kg,4,1,90
+2026-06-01,Cucumber,kg,7,1,45
+2026-06-01,Carrot,kg,14,2,50
+2026-06-01,Broccoli,kg,5,1,120
+2026-06-01,Sweet corn,kg,10,2,70
+2026-06-01,Coriander leaves,kg,3,1,100
+2026-06-01,Basil,kg,3,1,300
+2026-06-01,Mint,kg,3,1,120
+2026-06-01,Lemongrass,kg,10,2,160
+2026-06-01,Lemon,kg,14,2,90
+2026-06-01,Olives,kg,60,5,420
+2026-06-01,Milk,L,3,1,56
+2026-06-01,Cream,L,6,2,260
+2026-06-01,Curd,kg,6,1,70
+2026-06-01,Butter,kg,45,3,520
+2026-06-01,Mozzarella,kg,21,3,480
+2026-06-01,Parmesan,kg,90,5,1400
+2026-06-01,Ghee,kg,180,5,620
+2026-06-01,Khoya,kg,5,1,420
+2026-06-01,Basmati rice,kg,365,4,110
+2026-06-01,Jasmine rice,kg,365,4,95
+2026-06-01,Pasta,kg,365,4,130
+2026-06-01,Pizza dough,kg,3,1,70
+2026-06-01,Bread slices,pcs,4,1,4
+2026-06-01,Wheat flour,kg,180,4,45
+2026-06-01,Bread crumbs,kg,120,4,90
+2026-06-01,Coconut milk,L,120,5,180
+2026-06-01,Fish sauce,L,365,7,220
+2026-06-01,Soy sauce,L,365,7,160
+2026-06-01,Thai curry paste,kg,180,7,380
+2026-06-01,Tomato puree,kg,90,3,110
+2026-06-01,Olive oil,L,365,5,650
+2026-06-01,Cooking oil,L,365,3,140
+2026-06-01,Sugar,kg,365,3,45
+2026-06-01,Salt,kg,730,3,20
+2026-06-01,Indian spice mix,kg,365,5,520
+2026-06-01,Tea leaves,kg,365,5,450
+2026-06-01,Coffee beans,kg,180,5,900
+2026-06-01,Thai tea mix,kg,365,7,700
+2026-06-01,Mango pulp,kg,180,4,160
+2026-06-01,Orange juice,L,7,2,110
+2026-06-01,Soda water,L,180,3,30
+2026-06-01,Chocolate,kg,180,5,420
+2026-06-01,Mayonnaise,kg,60,3,160
+2026-06-01,Peanuts,kg,180,5,140

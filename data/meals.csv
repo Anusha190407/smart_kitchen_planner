@@ -1,0 +1,52 @@
+meal_id,meal_name,category,cuisine,base_price_inr
+1062,Cappuccino,Beverages,Italian,120
+1109,Chicken Curry Rice Bowl,Rice Bowl,Indian,230
+1198,Steamed Jasmine Rice,Extras,Thai,60
+1207,Fresh Orange Juice,Beverages,Continental,90
+1216,Penne Arrabbiata,Pasta,Italian,230
+1230,Classic Lemonade,Beverages,Continental,70
+1247,Chicken Biryani,Biryani,Indian,280
+1248,Masala Chai,Beverages,Indian,30
+1311,Thai Egg Fried Rice,Extras,Thai,110
+1438,Tom Kha Gai Soup,Soup,Thai,150
+1445,Garlic Butter Prawns,Seafood,Continental,390
+1525,Spicy Potato Wedges,Other Snacks,Thai,120
+1543,Gulab Jamun,Desert,Indian,90
+1558,Margherita Pizza,Pizza,Continental,300
+1571,Grilled Lemon Butter Fish,Fish,Continental,340
+1727,Paneer Butter Masala Rice Bowl,Rice Bowl,Indian,220
+1754,Caprese Panini,Sandwich,Italian,170
+1770,Egg Biryani,Biryani,Indian,200
+1778,Caffe Latte,Beverages,Italian,130
+1803,Thai Omelette,Extras,Thai,80
+1847,Tom Yum Mushroom Soup,Soup,Thai,140
+1878,Chicken Satay,Starters,Thai,200
+1885,Thai Iced Tea,Beverages,Thai,110
+1902,Paneer Biryani,Biryani,Indian,250
+1962,Farmhouse Veg Pizza,Pizza,Continental,340
+1971,Chicken Pesto Sandwich,Sandwich,Italian,190
+1993,Coconut Cooler,Beverages,Thai,100
+2104,Fish and Chips,Fish,Continental,320
+2126,Chicken Alfredo Pasta,Pasta,Italian,270
+2139,Mango Lassi,Beverages,Indian,80
+2290,Egg Curry Rice Bowl,Rice Bowl,Indian,180
+2304,Rasmalai,Desert,Indian,110
+2306,Prawn Aglio e Olio,Pasta,Italian,290
+2322,Hot Chocolate,Beverages,Continental,110
+2444,Calamari Rings,Seafood,Continental,360
+2490,Caprese Salad,Salad,Italian,180
+2492,Rice Kheer,Desert,Indian,80
+2494,Thai Vegetable Coconut Soup,Soup,Thai,130
+2539,Lemongrass Lemon Tea,Beverages,Thai,80
+2569,Chicken Caesar Salad,Salad,Italian,210
+2577,Paneer Satay,Starters,Thai,190
+2581,Chicken Supreme Pizza,Pizza,Continental,380
+2631,Filter Coffee,Beverages,Indian,40
+2640,Thai Veg Spring Rolls,Starters,Thai,160
+2664,Garden Olive Salad,Salad,Italian,150
+2704,Chilli Peanut Bites,Other Snacks,Thai,100
+2707,Aranciata Orange Spritz,Beverages,Italian,100
+2760,Sweet Corn Fritters,Other Snacks,Thai,130
+2826,Egg Frittata Sandwich,Sandwich,Italian,150
+2867,Creamy Prawn and Potato Bake,Seafood,Continental,400
+2956,Creamy Garlic Fish,Fish,Continental,360

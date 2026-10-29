@@ -1,0 +1,271 @@
+valid_from,meal_id,meal_name,category,cuisine,ingredient,unit,qty_per_serving
+2026-06-01,1207,Fresh Orange Juice,Beverages,Continental,Orange juice,L,0.25
+2026-06-01,1207,Fresh Orange Juice,Beverages,Continental,Sugar,kg,0.005
+2026-06-01,1230,Classic Lemonade,Beverages,Continental,Lemon,kg,0.05
+2026-06-01,1230,Classic Lemonade,Beverages,Continental,Sugar,kg,0.03
+2026-06-01,1230,Classic Lemonade,Beverages,Continental,Soda water,L,0.2
+2026-06-01,1230,Classic Lemonade,Beverages,Continental,Mint,kg,0.005
+2026-06-01,2322,Hot Chocolate,Beverages,Continental,Chocolate,kg,0.03
+2026-06-01,2322,Hot Chocolate,Beverages,Continental,Milk,L,0.2
+2026-06-01,2322,Hot Chocolate,Beverages,Continental,Sugar,kg,0.01
+2026-06-01,1248,Masala Chai,Beverages,Indian,Tea leaves,kg,0.005
+2026-06-01,1248,Masala Chai,Beverages,Indian,Milk,L,0.15
+2026-06-01,1248,Masala Chai,Beverages,Indian,Sugar,kg,0.015
+2026-06-01,1248,Masala Chai,Beverages,Indian,Ginger,kg,0.005
+2026-06-01,2139,Mango Lassi,Beverages,Indian,Curd,kg,0.2
+2026-06-01,2139,Mango Lassi,Beverages,Indian,Sugar,kg,0.03
+2026-06-01,2139,Mango Lassi,Beverages,Indian,Mango pulp,kg,0.08
+2026-06-01,2631,Filter Coffee,Beverages,Indian,Coffee beans,kg,0.012
+2026-06-01,2631,Filter Coffee,Beverages,Indian,Milk,L,0.12
+2026-06-01,2631,Filter Coffee,Beverages,Indian,Sugar,kg,0.015
+2026-06-01,1062,Cappuccino,Beverages,Italian,Coffee beans,kg,0.015
+2026-06-01,1062,Cappuccino,Beverages,Italian,Milk,L,0.15
+2026-06-01,1062,Cappuccino,Beverages,Italian,Sugar,kg,0.01
+2026-06-01,1778,Caffe Latte,Beverages,Italian,Coffee beans,kg,0.012
+2026-06-01,1778,Caffe Latte,Beverages,Italian,Milk,L,0.22
+2026-06-01,1778,Caffe Latte,Beverages,Italian,Sugar,kg,0.01
+2026-06-01,2707,Aranciata Orange Spritz,Beverages,Italian,Orange juice,L,0.2
+2026-06-01,2707,Aranciata Orange Spritz,Beverages,Italian,Soda water,L,0.15
+2026-06-01,2707,Aranciata Orange Spritz,Beverages,Italian,Sugar,kg,0.01
+2026-06-01,1885,Thai Iced Tea,Beverages,Thai,Thai tea mix,kg,0.012
+2026-06-01,1885,Thai Iced Tea,Beverages,Thai,Milk,L,0.12
+2026-06-01,1885,Thai Iced Tea,Beverages,Thai,Sugar,kg,0.02
+2026-06-01,1993,Coconut Cooler,Beverages,Thai,Coconut milk,L,0.15
+2026-06-01,1993,Coconut Cooler,Beverages,Thai,Sugar,kg,0.02
+2026-06-01,1993,Coconut Cooler,Beverages,Thai,Lemongrass,kg,0.005
+2026-06-01,2539,Lemongrass Lemon Tea,Beverages,Thai,Lemongrass,kg,0.01
+2026-06-01,2539,Lemongrass Lemon Tea,Beverages,Thai,Lemon,kg,0.02
+2026-06-01,2539,Lemongrass Lemon Tea,Beverages,Thai,Sugar,kg,0.015
+2026-06-01,1247,Chicken Biryani,Biryani,Indian,Basmati rice,kg,0.18
+2026-06-01,1247,Chicken Biryani,Biryani,Indian,Onion,kg,0.08
+2026-06-01,1247,Chicken Biryani,Biryani,Indian,Tomato,kg,0.05
+2026-06-01,1247,Chicken Biryani,Biryani,Indian,Indian spice mix,kg,0.01
+2026-06-01,1247,Chicken Biryani,Biryani,Indian,Ghee,kg,0.015
+2026-06-01,1247,Chicken Biryani,Biryani,Indian,Curd,kg,0.05
+2026-06-01,1247,Chicken Biryani,Biryani,Indian,Ginger,kg,0.005
+2026-06-01,1247,Chicken Biryani,Biryani,Indian,Garlic,kg,0.005
+2026-06-01,1247,Chicken Biryani,Biryani,Indian,Mint,kg,0.005
+2026-06-01,1247,Chicken Biryani,Biryani,Indian,Coriander leaves,kg,0.005
+2026-06-01,1247,Chicken Biryani,Biryani,Indian,Chicken,kg,0.15
+2026-06-01,1770,Egg Biryani,Biryani,Indian,Basmati rice,kg,0.18
+2026-06-01,1770,Egg Biryani,Biryani,Indian,Onion,kg,0.08
+2026-06-01,1770,Egg Biryani,Biryani,Indian,Tomato,kg,0.05
+2026-06-01,1770,Egg Biryani,Biryani,Indian,Indian spice mix,kg,0.01
+2026-06-01,1770,Egg Biryani,Biryani,Indian,Ghee,kg,0.015
+2026-06-01,1770,Egg Biryani,Biryani,Indian,Curd,kg,0.05
+2026-06-01,1770,Egg Biryani,Biryani,Indian,Ginger,kg,0.005
+2026-06-01,1770,Egg Biryani,Biryani,Indian,Garlic,kg,0.005
+2026-06-01,1770,Egg Biryani,Biryani,Indian,Mint,kg,0.005
+2026-06-01,1770,Egg Biryani,Biryani,Indian,Coriander leaves,kg,0.005
+2026-06-01,1770,Egg Biryani,Biryani,Indian,Eggs,pcs,2.0
+2026-06-01,1902,Paneer Biryani,Biryani,Indian,Basmati rice,kg,0.18
+2026-06-01,1902,Paneer Biryani,Biryani,Indian,Onion,kg,0.08
+2026-06-01,1902,Paneer Biryani,Biryani,Indian,Tomato,kg,0.05
+2026-06-01,1902,Paneer Biryani,Biryani,Indian,Indian spice mix,kg,0.01
+2026-06-01,1902,Paneer Biryani,Biryani,Indian,Ghee,kg,0.015
+2026-06-01,1902,Paneer Biryani,Biryani,Indian,Curd,kg,0.05
+2026-06-01,1902,Paneer Biryani,Biryani,Indian,Ginger,kg,0.005
+2026-06-01,1902,Paneer Biryani,Biryani,Indian,Garlic,kg,0.005
+2026-06-01,1902,Paneer Biryani,Biryani,Indian,Mint,kg,0.005
+2026-06-01,1902,Paneer Biryani,Biryani,Indian,Coriander leaves,kg,0.005
+2026-06-01,1902,Paneer Biryani,Biryani,Indian,Paneer,kg,0.12
+2026-06-01,1543,Gulab Jamun,Desert,Indian,Khoya,kg,0.05
+2026-06-01,1543,Gulab Jamun,Desert,Indian,Sugar,kg,0.05
+2026-06-01,1543,Gulab Jamun,Desert,Indian,Ghee,kg,0.01
+2026-06-01,1543,Gulab Jamun,Desert,Indian,Wheat flour,kg,0.01
+2026-06-01,1543,Gulab Jamun,Desert,Indian,Cooking oil,L,0.02
+2026-06-01,2304,Rasmalai,Desert,Indian,Milk,L,0.2
+2026-06-01,2304,Rasmalai,Desert,Indian,Sugar,kg,0.04
+2026-06-01,2304,Rasmalai,Desert,Indian,Paneer,kg,0.05
+2026-06-01,2492,Rice Kheer,Desert,Indian,Milk,L,0.2
+2026-06-01,2492,Rice Kheer,Desert,Indian,Sugar,kg,0.04
+2026-06-01,2492,Rice Kheer,Desert,Indian,Basmati rice,kg,0.03
+2026-06-01,2492,Rice Kheer,Desert,Indian,Ghee,kg,0.005
+2026-06-01,1198,Steamed Jasmine Rice,Extras,Thai,Jasmine rice,kg,0.15
+2026-06-01,1198,Steamed Jasmine Rice,Extras,Thai,Salt,kg,0.002
+2026-06-01,1311,Thai Egg Fried Rice,Extras,Thai,Jasmine rice,kg,0.15
+2026-06-01,1311,Thai Egg Fried Rice,Extras,Thai,Eggs,pcs,1.0
+2026-06-01,1311,Thai Egg Fried Rice,Extras,Thai,Cooking oil,L,0.015
+2026-06-01,1311,Thai Egg Fried Rice,Extras,Thai,Soy sauce,L,0.01
+2026-06-01,1311,Thai Egg Fried Rice,Extras,Thai,Garlic,kg,0.005
+2026-06-01,1803,Thai Omelette,Extras,Thai,Eggs,pcs,2.0
+2026-06-01,1803,Thai Omelette,Extras,Thai,Cooking oil,L,0.02
+2026-06-01,1803,Thai Omelette,Extras,Thai,Fish sauce,L,0.01
+2026-06-01,1803,Thai Omelette,Extras,Thai,Onion,kg,0.02
+2026-06-01,1571,Grilled Lemon Butter Fish,Fish,Continental,Fish fillet,kg,0.18
+2026-06-01,1571,Grilled Lemon Butter Fish,Fish,Continental,Butter,kg,0.02
+2026-06-01,1571,Grilled Lemon Butter Fish,Fish,Continental,Lemon,kg,0.02
+2026-06-01,1571,Grilled Lemon Butter Fish,Fish,Continental,Cooking oil,L,0.01
+2026-06-01,1571,Grilled Lemon Butter Fish,Fish,Continental,Salt,kg,0.002
+2026-06-01,2104,Fish and Chips,Fish,Continental,Fish fillet,kg,0.18
+2026-06-01,2104,Fish and Chips,Fish,Continental,Potato,kg,0.2
+2026-06-01,2104,Fish and Chips,Fish,Continental,Wheat flour,kg,0.04
+2026-06-01,2104,Fish and Chips,Fish,Continental,Cooking oil,L,0.08
+2026-06-01,2104,Fish and Chips,Fish,Continental,Salt,kg,0.002
+2026-06-01,2956,Creamy Garlic Fish,Fish,Continental,Fish fillet,kg,0.18
+2026-06-01,2956,Creamy Garlic Fish,Fish,Continental,Cream,L,0.06
+2026-06-01,2956,Creamy Garlic Fish,Fish,Continental,Garlic,kg,0.01
+2026-06-01,2956,Creamy Garlic Fish,Fish,Continental,Butter,kg,0.015
+2026-06-01,2956,Creamy Garlic Fish,Fish,Continental,Salt,kg,0.002
+2026-06-01,1525,Spicy Potato Wedges,Other Snacks,Thai,Potato,kg,0.15
+2026-06-01,1525,Spicy Potato Wedges,Other Snacks,Thai,Cooking oil,L,0.05
+2026-06-01,1525,Spicy Potato Wedges,Other Snacks,Thai,Green chilli,kg,0.005
+2026-06-01,1525,Spicy Potato Wedges,Other Snacks,Thai,Soy sauce,L,0.01
+2026-06-01,1525,Spicy Potato Wedges,Other Snacks,Thai,Salt,kg,0.002
+2026-06-01,2704,Chilli Peanut Bites,Other Snacks,Thai,Peanuts,kg,0.06
+2026-06-01,2704,Chilli Peanut Bites,Other Snacks,Thai,Green chilli,kg,0.005
+2026-06-01,2704,Chilli Peanut Bites,Other Snacks,Thai,Soy sauce,L,0.01
+2026-06-01,2704,Chilli Peanut Bites,Other Snacks,Thai,Cooking oil,L,0.03
+2026-06-01,2704,Chilli Peanut Bites,Other Snacks,Thai,Salt,kg,0.002
+2026-06-01,2760,Sweet Corn Fritters,Other Snacks,Thai,Sweet corn,kg,0.08
+2026-06-01,2760,Sweet Corn Fritters,Other Snacks,Thai,Wheat flour,kg,0.04
+2026-06-01,2760,Sweet Corn Fritters,Other Snacks,Thai,Cooking oil,L,0.05
+2026-06-01,2760,Sweet Corn Fritters,Other Snacks,Thai,Green chilli,kg,0.005
+2026-06-01,2760,Sweet Corn Fritters,Other Snacks,Thai,Salt,kg,0.002
+2026-06-01,1216,Penne Arrabbiata,Pasta,Italian,Pasta,kg,0.12
+2026-06-01,1216,Penne Arrabbiata,Pasta,Italian,Tomato puree,kg,0.1
+2026-06-01,1216,Penne Arrabbiata,Pasta,Italian,Garlic,kg,0.008
+2026-06-01,1216,Penne Arrabbiata,Pasta,Italian,Olive oil,L,0.015
+2026-06-01,1216,Penne Arrabbiata,Pasta,Italian,Green chilli,kg,0.005
+2026-06-01,1216,Penne Arrabbiata,Pasta,Italian,Basil,kg,0.004
+2026-06-01,1216,Penne Arrabbiata,Pasta,Italian,Salt,kg,0.002
+2026-06-01,2126,Chicken Alfredo Pasta,Pasta,Italian,Pasta,kg,0.12
+2026-06-01,2126,Chicken Alfredo Pasta,Pasta,Italian,Chicken,kg,0.1
+2026-06-01,2126,Chicken Alfredo Pasta,Pasta,Italian,Cream,L,0.1
+2026-06-01,2126,Chicken Alfredo Pasta,Pasta,Italian,Parmesan,kg,0.02
+2026-06-01,2126,Chicken Alfredo Pasta,Pasta,Italian,Butter,kg,0.015
+2026-06-01,2126,Chicken Alfredo Pasta,Pasta,Italian,Garlic,kg,0.008
+2026-06-01,2126,Chicken Alfredo Pasta,Pasta,Italian,Salt,kg,0.002
+2026-06-01,2306,Prawn Aglio e Olio,Pasta,Italian,Pasta,kg,0.12
+2026-06-01,2306,Prawn Aglio e Olio,Pasta,Italian,Prawns,kg,0.09
+2026-06-01,2306,Prawn Aglio e Olio,Pasta,Italian,Olive oil,L,0.03
+2026-06-01,2306,Prawn Aglio e Olio,Pasta,Italian,Garlic,kg,0.012
+2026-06-01,2306,Prawn Aglio e Olio,Pasta,Italian,Green chilli,kg,0.004
+2026-06-01,2306,Prawn Aglio e Olio,Pasta,Italian,Salt,kg,0.002
+2026-06-01,1558,Margherita Pizza,Pizza,Continental,Pizza dough,kg,0.22
+2026-06-01,1558,Margherita Pizza,Pizza,Continental,Tomato puree,kg,0.06
+2026-06-01,1558,Margherita Pizza,Pizza,Continental,Mozzarella,kg,0.08
+2026-06-01,1558,Margherita Pizza,Pizza,Continental,Olive oil,L,0.01
+2026-06-01,1558,Margherita Pizza,Pizza,Continental,Basil,kg,0.004
+2026-06-01,1962,Farmhouse Veg Pizza,Pizza,Continental,Pizza dough,kg,0.22
+2026-06-01,1962,Farmhouse Veg Pizza,Pizza,Continental,Tomato puree,kg,0.06
+2026-06-01,1962,Farmhouse Veg Pizza,Pizza,Continental,Mozzarella,kg,0.08
+2026-06-01,1962,Farmhouse Veg Pizza,Pizza,Continental,Mushroom,kg,0.04
+2026-06-01,1962,Farmhouse Veg Pizza,Pizza,Continental,Bell pepper,kg,0.03
+2026-06-01,1962,Farmhouse Veg Pizza,Pizza,Continental,Sweet corn,kg,0.03
+2026-06-01,1962,Farmhouse Veg Pizza,Pizza,Continental,Olive oil,L,0.01
+2026-06-01,2581,Chicken Supreme Pizza,Pizza,Continental,Pizza dough,kg,0.22
+2026-06-01,2581,Chicken Supreme Pizza,Pizza,Continental,Tomato puree,kg,0.06
+2026-06-01,2581,Chicken Supreme Pizza,Pizza,Continental,Mozzarella,kg,0.08
+2026-06-01,2581,Chicken Supreme Pizza,Pizza,Continental,Chicken,kg,0.08
+2026-06-01,2581,Chicken Supreme Pizza,Pizza,Continental,Bell pepper,kg,0.03
+2026-06-01,2581,Chicken Supreme Pizza,Pizza,Continental,Onion,kg,0.03
+2026-06-01,2581,Chicken Supreme Pizza,Pizza,Continental,Olive oil,L,0.01
+2026-06-01,1109,Chicken Curry Rice Bowl,Rice Bowl,Indian,Basmati rice,kg,0.15
+2026-06-01,1109,Chicken Curry Rice Bowl,Rice Bowl,Indian,Chicken,kg,0.12
+2026-06-01,1109,Chicken Curry Rice Bowl,Rice Bowl,Indian,Onion,kg,0.05
+2026-06-01,1109,Chicken Curry Rice Bowl,Rice Bowl,Indian,Tomato,kg,0.06
+2026-06-01,1109,Chicken Curry Rice Bowl,Rice Bowl,Indian,Indian spice mix,kg,0.006
+2026-06-01,1109,Chicken Curry Rice Bowl,Rice Bowl,Indian,Garlic,kg,0.005
+2026-06-01,1109,Chicken Curry Rice Bowl,Rice Bowl,Indian,Cooking oil,L,0.015
+2026-06-01,1727,Paneer Butter Masala Rice Bowl,Rice Bowl,Indian,Basmati rice,kg,0.15
+2026-06-01,1727,Paneer Butter Masala Rice Bowl,Rice Bowl,Indian,Paneer,kg,0.1
+2026-06-01,1727,Paneer Butter Masala Rice Bowl,Rice Bowl,Indian,Butter,kg,0.015
+2026-06-01,1727,Paneer Butter Masala Rice Bowl,Rice Bowl,Indian,Tomato,kg,0.08
+2026-06-01,1727,Paneer Butter Masala Rice Bowl,Rice Bowl,Indian,Cream,L,0.03
+2026-06-01,1727,Paneer Butter Masala Rice Bowl,Rice Bowl,Indian,Indian spice mix,kg,0.005
+2026-06-01,1727,Paneer Butter Masala Rice Bowl,Rice Bowl,Indian,Cooking oil,L,0.01
+2026-06-01,2290,Egg Curry Rice Bowl,Rice Bowl,Indian,Basmati rice,kg,0.15
+2026-06-01,2290,Egg Curry Rice Bowl,Rice Bowl,Indian,Eggs,pcs,2.0
+2026-06-01,2290,Egg Curry Rice Bowl,Rice Bowl,Indian,Onion,kg,0.05
+2026-06-01,2290,Egg Curry Rice Bowl,Rice Bowl,Indian,Tomato,kg,0.06
+2026-06-01,2290,Egg Curry Rice Bowl,Rice Bowl,Indian,Indian spice mix,kg,0.006
+2026-06-01,2290,Egg Curry Rice Bowl,Rice Bowl,Indian,Cooking oil,L,0.015
+2026-06-01,2490,Caprese Salad,Salad,Italian,Tomato,kg,0.12
+2026-06-01,2490,Caprese Salad,Salad,Italian,Mozzarella,kg,0.06
+2026-06-01,2490,Caprese Salad,Salad,Italian,Basil,kg,0.006
+2026-06-01,2490,Caprese Salad,Salad,Italian,Olive oil,L,0.015
+2026-06-01,2490,Caprese Salad,Salad,Italian,Salt,kg,0.002
+2026-06-01,2569,Chicken Caesar Salad,Salad,Italian,Lettuce,kg,0.12
+2026-06-01,2569,Chicken Caesar Salad,Salad,Italian,Chicken,kg,0.08
+2026-06-01,2569,Chicken Caesar Salad,Salad,Italian,Parmesan,kg,0.02
+2026-06-01,2569,Chicken Caesar Salad,Salad,Italian,Bread slices,pcs,1.0
+2026-06-01,2569,Chicken Caesar Salad,Salad,Italian,Olive oil,L,0.015
+2026-06-01,2664,Garden Olive Salad,Salad,Italian,Lettuce,kg,0.1
+2026-06-01,2664,Garden Olive Salad,Salad,Italian,Cucumber,kg,0.06
+2026-06-01,2664,Garden Olive Salad,Salad,Italian,Tomato,kg,0.06
+2026-06-01,2664,Garden Olive Salad,Salad,Italian,Olives,kg,0.02
+2026-06-01,2664,Garden Olive Salad,Salad,Italian,Olive oil,L,0.015
+2026-06-01,2664,Garden Olive Salad,Salad,Italian,Lemon,kg,0.01
+2026-06-01,1754,Caprese Panini,Sandwich,Italian,Bread slices,pcs,2.0
+2026-06-01,1754,Caprese Panini,Sandwich,Italian,Mozzarella,kg,0.05
+2026-06-01,1754,Caprese Panini,Sandwich,Italian,Tomato,kg,0.05
+2026-06-01,1754,Caprese Panini,Sandwich,Italian,Basil,kg,0.004
+2026-06-01,1754,Caprese Panini,Sandwich,Italian,Olive oil,L,0.01
+2026-06-01,1971,Chicken Pesto Sandwich,Sandwich,Italian,Bread slices,pcs,2.0
+2026-06-01,1971,Chicken Pesto Sandwich,Sandwich,Italian,Chicken,kg,0.08
+2026-06-01,1971,Chicken Pesto Sandwich,Sandwich,Italian,Basil,kg,0.008
+2026-06-01,1971,Chicken Pesto Sandwich,Sandwich,Italian,Olive oil,L,0.015
+2026-06-01,1971,Chicken Pesto Sandwich,Sandwich,Italian,Lettuce,kg,0.03
+2026-06-01,1971,Chicken Pesto Sandwich,Sandwich,Italian,Parmesan,kg,0.01
+2026-06-01,2826,Egg Frittata Sandwich,Sandwich,Italian,Bread slices,pcs,2.0
+2026-06-01,2826,Egg Frittata Sandwich,Sandwich,Italian,Eggs,pcs,1.0
+2026-06-01,2826,Egg Frittata Sandwich,Sandwich,Italian,Parmesan,kg,0.01
+2026-06-01,2826,Egg Frittata Sandwich,Sandwich,Italian,Tomato,kg,0.04
+2026-06-01,2826,Egg Frittata Sandwich,Sandwich,Italian,Olive oil,L,0.01
+2026-06-01,2826,Egg Frittata Sandwich,Sandwich,Italian,Lettuce,kg,0.03
+2026-06-01,1445,Garlic Butter Prawns,Seafood,Continental,Prawns,kg,0.15
+2026-06-01,1445,Garlic Butter Prawns,Seafood,Continental,Butter,kg,0.025
+2026-06-01,1445,Garlic Butter Prawns,Seafood,Continental,Garlic,kg,0.01
+2026-06-01,1445,Garlic Butter Prawns,Seafood,Continental,Lemon,kg,0.01
+2026-06-01,1445,Garlic Butter Prawns,Seafood,Continental,Salt,kg,0.002
+2026-06-01,2444,Calamari Rings,Seafood,Continental,Squid,kg,0.14
+2026-06-01,2444,Calamari Rings,Seafood,Continental,Wheat flour,kg,0.04
+2026-06-01,2444,Calamari Rings,Seafood,Continental,Bread crumbs,kg,0.03
+2026-06-01,2444,Calamari Rings,Seafood,Continental,Cooking oil,L,0.06
+2026-06-01,2444,Calamari Rings,Seafood,Continental,Lemon,kg,0.01
+2026-06-01,2444,Calamari Rings,Seafood,Continental,Mayonnaise,kg,0.02
+2026-06-01,2444,Calamari Rings,Seafood,Continental,Salt,kg,0.002
+2026-06-01,2867,Creamy Prawn and Potato Bake,Seafood,Continental,Prawns,kg,0.12
+2026-06-01,2867,Creamy Prawn and Potato Bake,Seafood,Continental,Cream,L,0.06
+2026-06-01,2867,Creamy Prawn and Potato Bake,Seafood,Continental,Potato,kg,0.15
+2026-06-01,2867,Creamy Prawn and Potato Bake,Seafood,Continental,Butter,kg,0.015
+2026-06-01,2867,Creamy Prawn and Potato Bake,Seafood,Continental,Salt,kg,0.002
+2026-06-01,1438,Tom Kha Gai Soup,Soup,Thai,Chicken,kg,0.06
+2026-06-01,1438,Tom Kha Gai Soup,Soup,Thai,Coconut milk,L,0.1
+2026-06-01,1438,Tom Kha Gai Soup,Soup,Thai,Lemongrass,kg,0.01
+2026-06-01,1438,Tom Kha Gai Soup,Soup,Thai,Mushroom,kg,0.04
+2026-06-01,1438,Tom Kha Gai Soup,Soup,Thai,Lemon,kg,0.01
+2026-06-01,1438,Tom Kha Gai Soup,Soup,Thai,Salt,kg,0.003
+2026-06-01,1847,Tom Yum Mushroom Soup,Soup,Thai,Mushroom,kg,0.06
+2026-06-01,1847,Tom Yum Mushroom Soup,Soup,Thai,Lemongrass,kg,0.01
+2026-06-01,1847,Tom Yum Mushroom Soup,Soup,Thai,Lemon,kg,0.015
+2026-06-01,1847,Tom Yum Mushroom Soup,Soup,Thai,Green chilli,kg,0.005
+2026-06-01,1847,Tom Yum Mushroom Soup,Soup,Thai,Tomato,kg,0.04
+2026-06-01,1847,Tom Yum Mushroom Soup,Soup,Thai,Thai curry paste,kg,0.015
+2026-06-01,1847,Tom Yum Mushroom Soup,Soup,Thai,Salt,kg,0.003
+2026-06-01,2494,Thai Vegetable Coconut Soup,Soup,Thai,Coconut milk,L,0.1
+2026-06-01,2494,Thai Vegetable Coconut Soup,Soup,Thai,Carrot,kg,0.04
+2026-06-01,2494,Thai Vegetable Coconut Soup,Soup,Thai,Broccoli,kg,0.04
+2026-06-01,2494,Thai Vegetable Coconut Soup,Soup,Thai,Thai curry paste,kg,0.015
+2026-06-01,2494,Thai Vegetable Coconut Soup,Soup,Thai,Onion,kg,0.03
+2026-06-01,2494,Thai Vegetable Coconut Soup,Soup,Thai,Garlic,kg,0.005
+2026-06-01,2494,Thai Vegetable Coconut Soup,Soup,Thai,Salt,kg,0.003
+2026-06-01,1878,Chicken Satay,Starters,Thai,Chicken,kg,0.12
+2026-06-01,1878,Chicken Satay,Starters,Thai,Peanuts,kg,0.03
+2026-06-01,1878,Chicken Satay,Starters,Thai,Coconut milk,L,0.03
+2026-06-01,1878,Chicken Satay,Starters,Thai,Soy sauce,L,0.01
+2026-06-01,1878,Chicken Satay,Starters,Thai,Garlic,kg,0.005
+2026-06-01,1878,Chicken Satay,Starters,Thai,Cooking oil,L,0.02
+2026-06-01,2577,Paneer Satay,Starters,Thai,Paneer,kg,0.1
+2026-06-01,2577,Paneer Satay,Starters,Thai,Peanuts,kg,0.03
+2026-06-01,2577,Paneer Satay,Starters,Thai,Coconut milk,L,0.03
+2026-06-01,2577,Paneer Satay,Starters,Thai,Soy sauce,L,0.01
+2026-06-01,2577,Paneer Satay,Starters,Thai,Garlic,kg,0.005
+2026-06-01,2577,Paneer Satay,Starters,Thai,Cooking oil,L,0.02
+2026-06-01,2640,Thai Veg Spring Rolls,Starters,Thai,Wheat flour,kg,0.04
+2026-06-01,2640,Thai Veg Spring Rolls,Starters,Thai,Carrot,kg,0.03
+2026-06-01,2640,Thai Veg Spring Rolls,Starters,Thai,Mushroom,kg,0.03
+2026-06-01,2640,Thai Veg Spring Rolls,Starters,Thai,Soy sauce,L,0.01
+2026-06-01,2640,Thai Veg Spring Rolls,Starters,Thai,Cooking oil,L,0.05
+2026-06-01,2640,Thai Veg Spring Rolls,Starters,Thai,Garlic,kg,0.005
