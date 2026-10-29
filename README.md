@@ -619,15 +619,9 @@ This integrated approach helps transform historical data into practical, explain
 
 ## 👥 Contributors
 
-- **Project Team:** Add team member names here.
+- **Project Team:** Anusha S,Helena Vince J, Karthika I,Shree Supriya S,Raja Sri S.
 - **Project Name:** Smart Kitchen Planner
 - **Category:** AI/ML · Full-Stack Development · Inventory Optimization · Food-Waste Reduction
-
----
-
-## 📄 License
-
-Add the appropriate license and usage terms for this repository.
 
 ---
 
